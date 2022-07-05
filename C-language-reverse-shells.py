@@ -1,3 +1,11 @@
+#AUTHOR = RAED AHSAN
+#DATE = 05/07/2022
+#PROJECT = CREVSHELL
+# R-security
+
+
+
+
 import time
 import sys
 import pyautogui
